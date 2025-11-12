@@ -1,6 +1,6 @@
 # dlmalloc modified to hand out relative addresses
 
-An modified version of Doug Lea's excelent mspace allocator.
+A modified version of Doug Lea's excelent mspace allocator.
 
 An upcoming project requires an allocator that hands out addresses relative
 to a contiguous memory segment. While, for this particular project, a variant
